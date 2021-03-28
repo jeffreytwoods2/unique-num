@@ -1,0 +1,17 @@
+header {
+  background-color: midnightblue;
+  padding: 5px;
+}
+
+header h1 {
+  color: white;
+}
+
+.btn-primary {
+  background-color: midnightblue;
+  border-color: midnightblue;
+}
+
+#number-form {
+  margin-top: 15px;
+}
