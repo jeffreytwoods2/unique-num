@@ -4,14 +4,17 @@
 
 ### Table of Contents
 
-<ul>
-    <li>[Overview](#overview)</li>
-    <li>[Why?](#why?)</li>
-    <li>[How to Use](#how-to-use)</li>
-    <li>[Under the Hood](#under-the-hood)</li>
-    <li>[Future Development](#future-development)</li>
-    <li>[Contact Me](#contact-me)</li>
-</ul>
+[Overview](#overview)
+
+[Why?](#why?)
+
+[How to Use](#how-to-use)
+
+[Under the Hood](#under-the-hood)
+
+[Future Development](#future-development)
+
+[Contact Me](#contact-me)
 
 <hr>
 
