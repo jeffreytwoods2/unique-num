@@ -17,9 +17,9 @@ const numSeed = [
     }
 ];
 
-db.Number
+db.Submission
     .remove({})
-    .then(() => db.Number.collection.insertMany(numSeed))
+    .then(() => db.Submission.collection.insertMany(numSeed))
     .then(data => {
         console.log(data.result.n + " records inserted!");
         process.exit(0);
