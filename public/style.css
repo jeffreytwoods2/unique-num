@@ -7,6 +7,11 @@ header h1 {
   color: white;
 }
 
+#summary {
+  color: #3f3f3f;
+  margin-top: 10px;
+}
+
 .btn-primary {
   background-color: midnightblue;
   border-color: midnightblue;
