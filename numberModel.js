@@ -3,7 +3,7 @@ const mongoose = require("mongoose");
 const Schema = mongoose.Schema;
 
 const NumberSchema = new Schema({
-    number: {
+    submission: {
         type: Number,
         unique: true,
         match: [/^[0-9]+$/, "Please enter a valid integer"]
@@ -14,6 +14,6 @@ const NumberSchema = new Schema({
     }
 });
 
-const Number = mongoose.model("Number", NumberSchema);
+const Submission = mongoose.model("Number", NumberSchema);
 
-module.exports = Number;
+module.exports = Submission;
